@@ -11,3 +11,6 @@ Developed as a final project for Mechatronics Engineering (MCTR601) at the Germa
 Supervised by Prof. Ayman A. El-Badawy.
 
 This repo contains full documentation of the project and all CAD, lasercuting and code files.
+
+Contributers:  
+Zeina Abdelaal, Farah Abdelaal, Ahmed Shawki

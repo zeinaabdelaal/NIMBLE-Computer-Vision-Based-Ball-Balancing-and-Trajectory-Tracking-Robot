@@ -1,5 +1,7 @@
 # NIMBLE: Computer Vision Based Ball Balancing & Trajectory Tracking Robot
 
+[EMS Poster_Template_A1_260608_154001.pdf](https://github.com/user-attachments/files/28930610/EMS.Poster_Template_A1_260608_154001.pdf)
+
 <img width="1599" height="899" alt="f4afa68b-89f5-4ad4-aba0-d910d50fece1" src="https://github.com/user-attachments/assets/5f14064a-081a-4e7b-88a6-b7b69e64b23e" />
 
 <img width="783" height="760" alt="Screenshot 2026-06-08 133718" src="https://github.com/user-attachments/assets/5f0a31c9-42e0-4f65-bdbe-79b962e40c22" />
